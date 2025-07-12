@@ -13,7 +13,7 @@ This is a simple Node.js + Express API for managing books in a library system. I
 
 2. Start the server:
    
-   node index.js
+   node app.js
 
 
 ---
